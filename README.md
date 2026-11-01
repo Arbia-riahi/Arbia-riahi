@@ -9,6 +9,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:4682B4&height=180&section=header&text=Arbia%20Riahi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" alt="Arbia Riahi banner" />
 
+<!-- CERTIFICATION LOGOS
+     These are colored badges that work immediately.
+     To use the official logos, replace a badge by your own image, for example:
+     <img src="<official-badge-image-url>" height="90" alt="Certification name" />
+-->
+<p>
+  <img src="https://img.shields.io/badge/ISTQB-CTFL%20v4.0-C8102E?style=for-the-badge" alt="ISTQB CTFL v4.0" />
+  <img src="https://img.shields.io/badge/ISTQB-CT--GenAI-C8102E?style=for-the-badge" alt="ISTQB CT-GenAI" />
+  <img src="https://img.shields.io/badge/A4Q-CST-0B5394?style=for-the-badge" alt="A4Q CST" />
+  <img src="https://img.shields.io/badge/Scrum.org-PSM%20I-F58220?style=for-the-badge" alt="Professional Scrum Master I" />
+  <img src="https://img.shields.io/badge/Scrum.org-PSPO%20I-F58220?style=for-the-badge" alt="Professional Scrum Product Owner I" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/INE-ICCA-00A3E0?style=for-the-badge" alt="INE Certified Cloud Associate" />
+  <img src="https://img.shields.io/badge/Oracle-Java%20SE%208%20OCA-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified Associate Java SE 8" />
+  <img src="https://img.shields.io/badge/Python%20Institute-PCAP-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PCAP Certified Associate Python Programmer" />
+</p>
+
 ### I help teams ship reliable software, faster.
 **Automated testing · Full-stack development · AI agent testing**
 
@@ -122,43 +142,6 @@ I am also one of the few engineers who **tests AI agents and LLM-based applicati
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-| Project | What it is | Highlights | Stack | Link |
-|---|---|---|---|---|
-| **CoreLink** | Collaborative project management platform | Project and task management, secure authentication, Gmail and Google Calendar integration, dashboards, CRON alerts, real-time messaging. Full QA layer: test plan, traceability matrix, E2E, API, and unit tests, CI/CD | Spring Boot, MySQL, WebSockets, Selenium, Cucumber, JUnit 5, Mockito, Postman, Jenkins, SonarQube, Snyk, Docker Compose | [View](<corelink-repo-url>) |
-| **HealthCare** | Private coaching platform for coaches and clients | Appointment, goal, and session management with role-based access. BDD end-to-end tests | Angular, Express.js, MongoDB, Playwright, Cucumber | [View](<healthcare-repo-url>) |
-| **Industrial Performance and Data Analytics Platform** | Platform to monitor industrial performance and data quality | Python ETL, data quality validation, ML model monitoring (metrics and drift), UI, API, unit, and performance tests, **-40% manual effort** | Python, Selenium, REST Assured, TestNG, JUnit 5, Jasmine, JMeter, GitHub Actions, SonarQube, Snyk, Docker Compose | [View](<industrial-platform-repo-url>) |
-| **Traceability Web Application** | Secure web application for traceability | LDAP / Apache authentication, SSL certificates, automated technical documentation | Angular, Express.js, MongoDB, Compodoc | [View](<traceability-repo-url>) |
-
----
-
-## 💼 Experience Highlights
-
-**QA Automation Engineer, Remote Contract** (04/2024 – Present)
-- Built and maintained UI, API, and mobile automation frameworks: Selenium, TestNG, JUnit, Cucumber, Appium, REST Assured, Postman.
-- Worked in Agile teams on web and mobile products.
-- Developed and tested an **AI agent** (tool calling, reasoning consistency, robustness, hallucination detection).
-- Used agentic AI to generate test cases and test data, and to triage defects.
-
-**QA Automation and MLOps Engineer, SAGEMCOM** (02/2026 – 08/2026)
-- Turned production requirements into specifications and user stories.
-- Built a Python ETL pipeline with data quality validation.
-- Automated UI and API tests, cutting manual effort by 40%.
-- Validated ML models in production (metrics and drift detection).
-- Set up CI/CD with GitHub Actions, SonarQube, Snyk, and Docker Compose.
-
-**QA Automation Engineer, TEK-UP University** (07/2025 – 09/2025)
-- Test plan, test cases, and requirements traceability matrix.
-- E2E automation with Selenium and Cucumber; API tests with Postman; unit tests with JUnit 5 and Mockito.
-- Jenkins CI/CD pipeline with SonarQube, Snyk, and Docker Compose.
-
-**Full-Stack Developer, SAGEMCOM** (01/2023 – 06/2023)
-- Built a traceability web application with Express.js and Angular.
-- LDAP / Apache authentication, SSL certificates, automated documentation with Compodoc.
 
 ---
 
