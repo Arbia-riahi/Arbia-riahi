@@ -10,23 +10,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:4682B4&height=180&section=header&text=Arbia%20Riahi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" alt="Arbia Riahi banner" />
 
 <!-- CERTIFICATION LOGOS
-     Upload the official badge image of each certification into the folder
-     assets/certifications/ of this repository, using EXACTLY these file names
-     (change the extension below if your file is .jpg, .webp or .svg).
+     Official badge images, loaded directly from Credly (images.credly.com).
+     The 4 badges shown as colored labels (CT-GenAI, A4Q CST, INE ICCA, Oracle OCA)
+     have no public official image: replace them by your own badge image URL when you have it.
 -->
 <p>
-  <img src="assets/certifications/istqb-ctfl-v4.png" height="110" alt="ISTQB CTFL v4.0" title="ISTQB CTFL v4.0" />
-  <img src="assets/certifications/istqb-ct-genai.png" height="110" alt="ISTQB CT-GenAI" title="ISTQB CT-GenAI" />
-  <img src="assets/certifications/a4q-cst.png" height="110" alt="A4Q CST" title="A4Q CST" />
-  <img src="assets/certifications/psm-1.png" height="110" alt="Professional Scrum Master I" title="Professional Scrum Master I" />
-  <img src="assets/certifications/pspo-1.png" height="110" alt="Professional Scrum Product Owner I" title="Professional Scrum Product Owner I" />
+  <img src="https://images.credly.com/images/12c64ffc-c5af-4be8-8fdc-8de91879be44/Brightest_CTFL.png" height="110" alt="ISTQB Certified Tester Foundation Level (CTFL)" title="ISTQB Certified Tester Foundation Level (CTFL)" />
+  <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" height="110" alt="Professional Scrum Master I (PSM I)" title="Professional Scrum Master I (PSM I)" />
+  <img src="https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" height="110" alt="Professional Scrum Product Owner I (PSPO I)" title="Professional Scrum Product Owner I (PSPO I)" />
+  <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" height="110" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" />
+  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" height="110" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
+  <img src="https://images.credly.com/size/340x340/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" height="110" alt="PCAP Certified Associate Python Programmer" title="PCAP Certified Associate Python Programmer" />
 </p>
 <p>
-  <img src="assets/certifications/aws-ai-practitioner.png" height="110" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" />
-  <img src="assets/certifications/aws-cloud-practitioner.png" height="110" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
-  <img src="assets/certifications/ine-icca.png" height="110" alt="INE Certified Cloud Associate" title="INE Certified Cloud Associate" />
-  <img src="assets/certifications/oracle-oca-java8.png" height="110" alt="Oracle Certified Associate Java SE 8" title="Oracle Certified Associate Java SE 8" />
-  <img src="assets/certifications/python-pcap.png" height="110" alt="PCAP Certified Associate Python Programmer" title="PCAP Certified Associate Python Programmer" />
+  <img src="https://img.shields.io/badge/ISTQB-CT--GenAI-C8102E?style=for-the-badge" alt="ISTQB CT-GenAI" />
+  <img src="https://img.shields.io/badge/A4Q-CST-0B5394?style=for-the-badge" alt="A4Q CST" />
+  <img src="https://img.shields.io/badge/INE-ICCA-00A3E0?style=for-the-badge" alt="INE Certified Cloud Associate" />
+  <img src="https://img.shields.io/badge/Oracle-OCA%20Java%20SE%208-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified Associate Java SE 8" />
 </p>
 
 ### I help teams ship reliable software, faster.
