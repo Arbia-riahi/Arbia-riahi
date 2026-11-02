@@ -1,8 +1,8 @@
 <!-- ============================================================
   GITHUB PROFILE README
   Repository: PUBLIC, named exactly like your username -> Arbia-riahi
-  Put these 4 files at the ROOT of the repository (no sub-folder):
-    README.md, istqb-ct-genai.png, ine-icca.png, oracle-oca.png
+  Put these files at the ROOT of the repository (no sub-folder):
+    README.md, A4Q.webp, istqb-ct-genai.png, ine-icca.png, oracle-oca.png
   Replace every <placeholder> before publishing.
 ============================================================= -->
 
@@ -11,24 +11,56 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:4682B4&height=180&section=header&text=Arbia%20Riahi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" alt="Arbia Riahi banner" />
 
 <!-- CERTIFICATION LOGOS
-     Row 1: official Credly badges (loaded from images.credly.com)
-     Row 2: logos stored at the root of this repo (same folder as README.md)
-     A4Q CST has no logo yet: replace the colored label by your image when you have it.
+     Grid of 5 columns x 2 rows, same height for every logo, name under each logo.
+     Credly badges are loaded from images.credly.com.
+     ISTQB CT-GenAI, A4Q, INE and Oracle logos are stored at the root of this repo.
 -->
-<p>
-  <img src="https://images.credly.com/images/12c64ffc-c5af-4be8-8fdc-8de91879be44/Brightest_CTFL.png" height="110" alt="ISTQB Certified Tester Foundation Level (CTFL)" title="ISTQB Certified Tester Foundation Level (CTFL)" />
-  <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" height="110" alt="Professional Scrum Master I (PSM I)" title="Professional Scrum Master I (PSM I)" />
-  <img src="https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" height="110" alt="Professional Scrum Product Owner I (PSPO I)" title="Professional Scrum Product Owner I (PSPO I)" />
-  <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" height="110" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" />
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" height="110" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
-  <img src="https://images.credly.com/size/340x340/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" height="110" alt="PCAP Certified Associate Python Programmer" title="PCAP Certified Associate Python Programmer" />
-</p>
-<p>
-  <img src="istqb-ct-genai.png" height="110" alt="ISTQB CT-GenAI" title="ISTQB Certified Tester Testing with Generative AI (CT-GenAI)" />
-  <img src="ine-icca.png" height="110" alt="INE Certified Cloud Associate (ICCA)" title="INE Certified Cloud Associate (ICCA)" />
-  <img src="oracle-oca.png" height="110" alt="Oracle Certified Associate, Java SE 8 Programmer" title="Oracle Certified Associate, Java SE 8 Programmer" />
-  <img src="https://img.shields.io/badge/A4Q-CST-0B5394?style=for-the-badge" alt="A4Q Certified Selenium Tester" title="A4Q Certified Selenium Tester (CST)" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://images.credly.com/images/12c64ffc-c5af-4be8-8fdc-8de91879be44/Brightest_CTFL.png" height="110" alt="ISTQB Certified Tester Foundation Level (CTFL)" title="ISTQB Certified Tester Foundation Level (CTFL)" /><br />
+      <sub><b>ISTQB CTFL v4.0</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="istqb-ct-genai.png" height="110" alt="ISTQB CT-GenAI" title="ISTQB Certified Tester Testing with Generative AI (CT-GenAI)" /><br />
+      <sub><b>ISTQB CT-GenAI</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="A4Q.webp" height="110" alt="A4Q Certified Selenium Tester" title="A4Q Certified Selenium Tester (CST)" /><br />
+      <sub><b>A4Q Selenium Tester</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" height="110" alt="Professional Scrum Master I (PSM I)" title="Professional Scrum Master I (PSM I)" /><br />
+      <sub><b>Scrum Master I</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://images.credly.com/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" height="110" alt="Professional Scrum Product Owner I (PSPO I)" title="Professional Scrum Product Owner I (PSPO I)" /><br />
+      <sub><b>Product Owner I</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" height="110" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" /><br />
+      <sub><b>AWS AI Practitioner</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" height="110" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" /><br />
+      <sub><b>AWS Cloud Practitioner</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://images.credly.com/size/340x340/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" height="110" alt="PCAP Certified Associate Python Programmer" title="PCAP Certified Associate Python Programmer" /><br />
+      <sub><b>PCAP Python</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="ine-icca.png" height="110" alt="INE Certified Cloud Associate (ICCA)" title="INE Certified Cloud Associate (ICCA)" /><br />
+      <sub><b>INE Cloud Associate</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="oracle-oca.png" height="110" alt="Oracle Certified Associate, Java SE 8 Programmer" title="Oracle Certified Associate, Java SE 8 Programmer" /><br />
+      <sub><b>Oracle Java SE 8</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### I help teams ship reliable software, faster.
 **Automated testing · Full-stack development · AI agent testing**
