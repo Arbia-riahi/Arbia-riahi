@@ -1,7 +1,8 @@
 <!-- ============================================================
   GITHUB PROFILE README
-  Create a PUBLIC repository named exactly like your username: Arbia-riahi
-  Put this file at the root of that repository and name it README.md
+  Repository: PUBLIC, named exactly like your username -> Arbia-riahi
+  Put these 4 files at the ROOT of the repository (no sub-folder):
+    README.md, istqb-ct-genai.png, ine-icca.png, oracle-oca.png
   Replace every <placeholder> before publishing.
 ============================================================= -->
 
@@ -10,9 +11,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:4682B4&height=180&section=header&text=Arbia%20Riahi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" alt="Arbia Riahi banner" />
 
 <!-- CERTIFICATION LOGOS
-     Official badge images, loaded directly from Credly (images.credly.com).
-     The 4 badges shown as colored labels (CT-GenAI, A4Q CST, INE ICCA, Oracle OCA)
-     have no public official image: replace them by your own badge image URL when you have it.
+     Row 1: official Credly badges (loaded from images.credly.com)
+     Row 2: logos stored at the root of this repo (same folder as README.md)
+     A4Q CST has no logo yet: replace the colored label by your image when you have it.
 -->
 <p>
   <img src="https://images.credly.com/images/12c64ffc-c5af-4be8-8fdc-8de91879be44/Brightest_CTFL.png" height="110" alt="ISTQB Certified Tester Foundation Level (CTFL)" title="ISTQB Certified Tester Foundation Level (CTFL)" />
@@ -23,10 +24,10 @@
   <img src="https://images.credly.com/size/340x340/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" height="110" alt="PCAP Certified Associate Python Programmer" title="PCAP Certified Associate Python Programmer" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/ISTQB-CT--GenAI-C8102E?style=for-the-badge" alt="ISTQB CT-GenAI" />
-  <img src="https://img.shields.io/badge/A4Q-CST-0B5394?style=for-the-badge" alt="A4Q CST" />
-  <img src="https://img.shields.io/badge/INE-ICCA-00A3E0?style=for-the-badge" alt="INE Certified Cloud Associate" />
-  <img src="https://img.shields.io/badge/Oracle-OCA%20Java%20SE%208-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified Associate Java SE 8" />
+  <img src="istqb-ct-genai.png" height="110" alt="ISTQB CT-GenAI" title="ISTQB Certified Tester Testing with Generative AI (CT-GenAI)" />
+  <img src="ine-icca.png" height="110" alt="INE Certified Cloud Associate (ICCA)" title="INE Certified Cloud Associate (ICCA)" />
+  <img src="oracle-oca.png" height="110" alt="Oracle Certified Associate, Java SE 8 Programmer" title="Oracle Certified Associate, Java SE 8 Programmer" />
+  <img src="https://img.shields.io/badge/A4Q-CST-0B5394?style=for-the-badge" alt="A4Q Certified Selenium Tester" title="A4Q Certified Selenium Tester (CST)" />
 </p>
 
 ### I help teams ship reliable software, faster.
